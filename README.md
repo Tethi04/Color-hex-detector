@@ -10,6 +10,7 @@
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet"/>
   <style>
    /* Hide the canvas */
+   https://tethi04.github.io/Color-hex-detector/
     #color-canvas {
       display: none;
     }
