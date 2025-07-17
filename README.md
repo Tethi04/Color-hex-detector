@@ -10,11 +10,11 @@
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet"/>
   <style>
    /* Hide the canvas */
-   https://tethi04.github.io/Color-hex-detector/
     #color-canvas {
       display: none;
     }
   </style>
+  Link: https://tethi04.github.io/Color-hex-detector/
  </head>
  <body class="bg-gray-50 min-h-screen flex flex-col items-center p-4">
   <header class="w-full max-w-xl text-center mb-8">
