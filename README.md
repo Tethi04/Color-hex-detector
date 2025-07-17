@@ -1,19 +1,4 @@
-<html lang="en">
- <head>
-  <meta charset="utf-8"/>
-  <meta content="width=device-width, initial-scale=1" name="viewport"/>
-  <title>
-   Color Hex Code Detector
-  </title>
-  <script src="https://cdn.tailwindcss.com">
-  </script>
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet"/>
-  <style>
-   /* Hide the canvas */
-    #color-canvas {
-      display: none;
-    }
-  </style>
+
   Link: https://tethi04.github.io/Color-hex-detector/
  </head>
  <body class="bg-gray-50 min-h-screen flex flex-col items-center p-4">
