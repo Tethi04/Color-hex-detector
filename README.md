@@ -1,5 +1,8 @@
 
   Link: https://tethi04.github.io/Color-hex-detector/
+
+  https://colour-hex-detector.onrender.com
+  
  </head>
  <body class="bg-gray-50 min-h-screen flex flex-col items-center p-4">
   <header class="w-full max-w-xl text-center mb-8">
